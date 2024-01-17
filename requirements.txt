@@ -1,0 +1,9 @@
+streamlit
+mne
+numpy
+pandas
+joblib
+scipy
+scikit-learn
+xgboost
+Pillow
